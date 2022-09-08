@@ -56,7 +56,7 @@ export default function Home() {
           </button>
           <div className={style.details}>
             You need Chrome to be
-            <br /> able to run this app.
+            <br /> able to run this app.ss
           </div>
         </div>
       )}
